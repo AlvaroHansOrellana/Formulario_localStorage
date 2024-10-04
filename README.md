@@ -2,15 +2,6 @@
 
 This project is an exercise demonstrating how to manipulate the DOM (Document Object Model) using JavaScript, while utilizing the browser's **Local Storage** to persist data between sessions.
 
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-
 ## Project Description
 
 The purpose of this project is to show how DOM elements can be dynamically updated based on data stored in **Local Storage**. This allows data to be preserved across page reloads or browser sessions. The example focuses on:
@@ -37,4 +28,4 @@ The purpose of this project is to show how DOM elements can be dynamically updat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/dom-local-storage-exercise.git
+   git clone https://github.com/AlvaroHansOrellana/Formulario_localStorage.git
