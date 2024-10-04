@@ -26,7 +26,7 @@ label {
 input[type="text"],
 input[type="email"],
 textarea {
-    width: 100%;
+    width: 95%;
     padding: 8px;
     margin-top: 5px;
     border: 2px solid #cd853f;
@@ -66,12 +66,11 @@ button:hover {
 }
 
 .container {
-    margin-top: 30px;
     background-color: #ffdab9;
     border: 3px solid #cd853f;
     border-radius: 10px;
     padding: 20px;
-    max-width: 500px;
+    max-width: 610px;
     margin: 30px auto 0;
     box-shadow: 5px 5px 0px #8b4513;
 }
